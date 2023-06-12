@@ -1,0 +1,21 @@
+{
+    "name": "openHAL",
+    "version": "1.0.0",
+    "description": "An Open Source Hardware Abstraction layer for a variety of commonly used microcontrollers",
+    "Keywords": "Hardware Abstraction Layer",
+    "repository": 
+    {
+        "type": "git",
+        "url":"git@github.com:dacoolinus/openHAL.git"
+    },
+    "authors":
+    [{
+        "name": "Collin Brown"
+    }],
+    "license": "MIT",
+    "dependencies": {
+
+    },
+    "frameworks": "*",
+    "platforms": "*"
+}
