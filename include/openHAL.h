@@ -8,3 +8,8 @@
  * @copyright Copyright (c) 2023
  * 
  */
+
+#ifndef OPEN_HAL_H_
+#define OPEN_HAL_H_
+
+#endif

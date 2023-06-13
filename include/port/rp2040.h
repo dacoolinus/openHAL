@@ -1,5 +1,5 @@
 /**
- * @file dma.h
+ * @file rp2040.h
  * @author Collin Brown (cbrown)
  * @brief 
  * @version 0.1
